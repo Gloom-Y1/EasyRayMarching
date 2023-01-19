@@ -7,6 +7,6 @@ An attempt at RayMarching
 - 光照反射
 - 简单的SSAA
 
-![RayMcrching](EasyRayMarching/RayMarching.ppm)
-![RayMcrchingWithSSAA](EasyRayMarching/RayMarching_SSAA.ppm)
+![RayMcrching](EasyRayMarching/RayMarching.jpg)
+![RayMcrchingWithSSAA](EasyRayMarching/RayMarching_SSAA.jpg)
 
